@@ -3,12 +3,12 @@
 
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-message.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-message)
-[![Build Status](https://img.shields.io/travis/bitpay/bitcore-message.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-message)
+[![Build Status](https://travis-ci.com/bitcoin-cored/bitcore-message.svg?branch=master)](https://travis-ci.com/bitcoin-cored/bitcore-message)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-message.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-message?branch=master)
 
-bitcore-message adds support for verifying and signing bitcoin messages in [Node.js](http://nodejs.org/) and web browsers.
+bitcore-message adds support for verifying and signing bitcoin core messages in [Node.js](http://nodejs.org/) and web browsers.
 
-See [the main bitcore repo](https://github.com/bitpay/bitcore) for more information.
+See [the main bitcoin core bitcore repo](https://github.com/bitcoin-cored/bitcore) for more information.
 
 ## Getting Started
 
@@ -40,11 +40,12 @@ var verified = Message('hello, world').verify(address, signature);
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/bitpay/bitcore/blob/master/CONTRIBUTING.md) on the main bitcore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/bitcoin-cored/bitcore/blob/master/CONTRIBUTING.md) on the main bitcore repo for information about how to contribute.
 
 ## License
 
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
+Copyright 2018 The BitcoinCore Developers
 

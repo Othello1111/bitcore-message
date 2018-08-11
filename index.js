@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib');
-bitcore.Message = require('./lib/message');
+var bcore = require('bcore-lib');
+bcore.Message = require('./lib/message');
 
-module.exports = bitcore.Message;
+module.exports = bcore.Message;

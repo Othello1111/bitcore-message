@@ -1,20 +1,20 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "bcore-message",
+  "main": "./bcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/bitcoin-cored/bcore-message",
   "authors": [
-    "BitPay"
+    "BitPay",
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Bitcoin Core Message Verification and Signing for bcore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
-    "satoshi",
+    "bitcoin core",
+    "bitcored",
+    "BTCC",
+    "satoshi true vision",
     "message",
     "signing"
   ],
